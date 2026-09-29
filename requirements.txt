@@ -1,6 +1,5 @@
 fastapi
 uvicorn
 httpx
-httpx2
 pytest
 watchfiles
